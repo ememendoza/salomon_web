@@ -1,0 +1,15 @@
+{
+  "name": "salomon_web",
+  "version": "1.0.0",
+  "description": "Web app for schools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "camilo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
